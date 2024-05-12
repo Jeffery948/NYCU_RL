@@ -1,2 +1,2 @@
 # NYCU_RL
-2024 NYCU RL
+112-2 Reinforcement Learning
